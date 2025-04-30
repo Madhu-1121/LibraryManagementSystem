@@ -1,12 +1,17 @@
-#Library Management System (Java + MySQL)
-
+## Library Management System (Java + MySQL)
 This is a simple Library Management System built using Java and MySQL.
 
+## Objective
+The main objective of this project is to automate the process of Managing books in a Library using Java and MySQL. 
+it helps in efficiently performing tasks like adding, vewing searching and deleting books reducing mnual effort & improving accuracy.
+
 ## Features
-- Add, issue, return, and delete books
-- View issued books and users
+- Add, update, and delete books
+- Register and manage library members
+- Track borrowed books with due dates
+- Search books by title, author, and delete book by id.
 
 ## Technologies Used
 - Java (JDBC)
 - MySQL Workbench
-- Eclipse IDE
+- Eclipse IDE.
