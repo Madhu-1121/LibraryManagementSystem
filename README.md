@@ -3,7 +3,7 @@ This is a simple Library Management System built using Java and MySQL.
 
 ## Objective
 The main objective of this project is to automate the process of Managing books in a Library using Java and MySQL. 
-it helps in efficiently performing tasks like adding, vewing searching and deleting books reducing mnual effort & improving accuracy.
+it helps in efficiently performing tasks like adding, viewing searching and deleting books reducing manual effort & improving accuracy.
 
 ## Features
 - Add, update, and delete books
