@@ -6,10 +6,10 @@ The main objective of this project is to automate the process of Managing books 
 it helps in efficiently performing tasks like adding, viewing searching and deleting books reducing manual effort & improving accuracy.
 
 ## Features
-- Add, update, and delete books
-- Register and manage library members
-- Track borrowed books with due dates
-- Search books by title, author, and delete book by id.
+- Add, update and delete books
+- Add, update and delete users
+- Search books by title, id
+- Delete book by id.
 
 ## Technologies Used
 - Java (JDBC)
